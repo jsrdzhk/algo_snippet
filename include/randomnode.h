@@ -3,15 +3,15 @@
  * @author: Rodney Cheung
  * @date: 2021-06-20 12:50:28
  * @last_author: Rodney Cheung
- * @last_edit_time: 2021-06-20 12:50:37
+ * @last_edit_time: 2021-07-15 09:29:42
  */
-class Node {
+class RandomNode {
 public:
     int val;
-    Node* next;
-    Node* random;
+    RandomNode* next;
+    RandomNode* random;
 
-    Node(int _val) {
+    RandomNode(int _val) {
         val = _val;
         next = nullptr;
         random = nullptr;

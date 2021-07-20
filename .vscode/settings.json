@@ -105,6 +105,13 @@
         "source_location": "cpp",
         "ranges": "cpp",
         "syncstream": "cpp",
-        "filesystem": "cpp"
-    }
+        "filesystem": "cpp",
+        "cassert": "cpp",
+        "cerrno": "cpp",
+        "cfloat": "cpp",
+        "ciso646": "cpp",
+        "climits": "cpp",
+        "version": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
